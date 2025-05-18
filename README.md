@@ -16,4 +16,3 @@ $ npm i
 $ npm link
 ```
 
-<!-- INSPIRATIONAL_QUOTE_START -->\nStay curious. Keep learning. Keep growing.\n🧑‍💻\n<!-- INSPIRATIONAL_QUOTE_END -->
