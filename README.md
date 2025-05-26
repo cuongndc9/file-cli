@@ -18,6 +18,6 @@ $ npm link
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Stay curious. Keep learning. Keep growing.
-🐯
+Discomfort is the currency of your dreams.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
