@@ -18,6 +18,6 @@ $ npm link
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🦄
+Action beats perfection.
+🧑‍💻,
 <!-- INSPIRATIONAL_QUOTE_END -->
