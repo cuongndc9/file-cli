@@ -18,5 +18,5 @@ $ npm link
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Life is what happens to you while you're busy making other plans." - John Lennon
+> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
 <!-- INSPIRATIONAL_QUOTE_END -->
